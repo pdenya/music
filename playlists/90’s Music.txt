@@ -1,0 +1,348 @@
+# 90’s Music
+# Tracks: 57
+# Duration: 214 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:33 PM
+
+1. Loser
+   Artist: Beck
+   Album: Mellow Gold
+   Duration: 3:55
+   Year: 1993
+
+2. Change
+   Artist: Blind Melon
+   Album: Blind Melon
+   Duration: 3:42
+   Year: 1992
+
+3. No Rain
+   Artist: Blind Melon
+   Album: Blind Melon
+   Duration: 3:37
+   Year: 1992
+
+4. Dammit
+   Artist: blink-182
+   Album: Dude Ranch
+   Duration: 2:45
+   Year: 1997
+
+5. Dumpweed
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:24
+   Year: 1999
+
+6. Don't Leave Me
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:24
+   Year: 1999
+
+7. Aliens Exist
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:13
+   Year: 1999
+
+8. Going Away to College
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:59
+   Year: 1999
+
+9. What's My Age Again?
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:28
+   Year: 1999
+
+10. Dysentery Gary
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:45
+   Year: 1999
+
+11. Adam's Song
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 4:10
+   Year: 1999
+
+12. All the Small Things
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:47
+   Year: 1999
+
+13. The Party Song
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:18
+   Year: 1999
+
+14. Mutt
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:23
+   Year: 1999
+
+15. Wendy Clear
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:50
+   Year: 1999
+
+16. Anthem
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:38
+   Year: 1999
+
+17. Girl All the Bad Guys Want
+   Artist: Bowling for Soup
+   Album: Drunk Enough to Dance
+   Duration: 3:18
+   Year: 1999
+
+18. I Will Survive
+   Artist: CAKE
+   Album: Fashion Nugget (Deluxe Edition)
+   Duration: 5:10
+   Year: 1996
+
+19. Linger
+   Artist: The Cranberries
+   Album: Stars: The Best of the Cranberries 1992-2002
+   Duration: 4:35
+   Year: 1993
+
+20. Still D.R.E. (feat. Snoop Dogg)
+   Artist: Dr. Dre
+   Album: 2001
+   Duration: 4:31
+   Year: 1999
+
+21. What's the Difference (feat. Eminem & Xzibit)
+   Artist: Dr. Dre
+   Album: 2001
+   Duration: 4:04
+   Year: 1999
+
+22. Forgot About Dre (feat. Eminem)
+   Artist: Dr. Dre
+   Album: 2001
+   Duration: 3:42
+   Year: 1999
+
+23. The Next Episode (feat. Snoop Dogg)
+   Artist: Dr. Dre
+   Album: 2001
+   Duration: 2:42
+   Year: 1999
+
+24. My Name Is
+   Artist: Eminem
+   Album: The Slim Shady LP (Expanded Edition)
+   Duration: 4:28
+   Year: 1999
+
+25. Welcome to Paradise
+   Artist: Green Day
+   Album: Dookie
+   Duration: 3:44
+   Year: 1994
+
+26. Stellar
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:20
+   Year: 1999
+
+27. Drive
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:52
+   Year: 1999
+
+28. Pardon Me
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:44
+   Year: 1999
+
+29. Big Pimpin' (feat. UGK)
+   Artist: JAY-Z
+   Album: Vol. 3... Life and Times of S. Carter
+   Duration: 4:43
+   Year: 1999
+
+30. Heart-Shaped Box
+   Artist: Nirvana
+   Album: In Utero (20th Anniversary Edition)
+   Duration: 4:41
+   Year: 1993
+
+31. Lithium
+   Artist: Nirvana
+   Album: Nevermind
+   Duration: 4:17
+   Year: 1991
+
+32. Just a Girl
+   Artist: No Doubt
+   Album: Tragic Kingdom
+   Duration: 3:29
+   Year: 1995
+
+33. Don't Speak
+   Artist: No Doubt
+   Album: Tragic Kingdom
+   Duration: 4:24
+   Year: 1995
+
+34. Otherside
+   Artist: Red Hot Chili Peppers
+   Album: Californication (Deluxe Edition)
+   Duration: 4:16
+   Year: 1999
+
+35. Under the Bridge
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:34
+   Year: 1991
+
+36. Californication
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 5:30
+   Year: 1999
+
+37. Scar Tissue
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 3:36
+   Year: 1999
+
+38. Otherside
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:16
+   Year: 1999
+
+39. Send Me On My Way
+   Artist: Rusted Root
+   Album: When I Woke
+   Duration: 4:23
+   Year: 1992
+
+40. Semi-Charmed Life
+   Artist: Third Eye Blind
+   Album: A Collection (Remastered)
+   Duration: 4:29
+   Year: 1997
+
+41. Jumper
+   Artist: Third Eye Blind
+   Album: A Collection (Remastered)
+   Duration: 4:33
+   Year: 1997
+
+42. Sumthin' Wicked This Way Comes
+   Artist: TLC
+   Album: CrazySexyCool
+   Duration: 4:28
+   Year: 1994
+
+43. Buddy Holly
+   Artist: Weezer
+   Album: Weezer
+   Duration: 2:40
+   Year: 1994
+
+44. I Ain't Mad At Cha (feat. Danny Boy)
+   Artist: 2Pac
+   Album: All Eyez On Me
+   Duration: 4:54
+   Year: 1996
+
+45. Hail Mary
+   Artist: 2Pac
+   Album: The Best of 2Pac, Pt. 1: Thug
+   Duration: 5:12
+   Year: 1996
+
+46. Rescue
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:56
+   Year: 1999
+
+47. Promise
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 2:57
+   Year: 1999
+
+48. On the Roof Again
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:06
+   Year: 1999
+
+49. Here's to the Night
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 4:10
+   Year: 1999
+
+50. Amphetamines
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 2:46
+   Year: 1999
+
+51. Enemy
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:49
+   Year: 1999
+
+52. Nocturnal
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:08
+   Year: 1999
+
+53. Jet Pack
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:33
+   Year: 1999
+
+54. Nightmare
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:08
+   Year: 1999
+
+55. Bang
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:35
+   Year: 1999
+
+56. Girl Eyes
+   Artist: Eve 6
+   Album: Horrorscope
+   Duration: 3:46
+   Year: 1999
+
+57. Zombie
+   Artist: The Cranberries
+   Album: Stars: The Best of the Cranberries 1992-2002
+   Duration: 5:07
+   Year: 1994
+
+

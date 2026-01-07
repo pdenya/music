@@ -1,0 +1,72 @@
+# Favorite Songs
+# Tracks: 11
+# Duration: 43 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:33 PM
+
+1. Walk
+   Artist: Foo Fighters
+   Album: Wasting Light
+   Duration: 4:17
+   Year: 2011
+
+2. Dance Now
+   Artist: JID & Kenny Mason
+   Album: The Forever Story
+   Duration: 3:48
+   Year: 2022
+
+3. wacced out murals
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 5:17
+   Year: 2024
+
+4. Guess Who’s Back (skit)
+   Artist: Eminem
+   Album: The Death of Slim Shady (Coup De Grâce)
+   Duration: 1:03
+   Year: 2024
+
+5. Renegade (feat. Eminem)
+   Artist: JAY-Z
+   Album: The Blueprint
+   Duration: 5:38
+   Year: 2001
+
+6. Higher
+   Artist: Eminem
+   Album: Music To Be Murdered By - Side B (Deluxe Edition)
+   Duration: 3:42
+   Year: 2020
+
+7. My Love
+   Artist: Ciara
+   Album: The Evolution (Bonus Track Edition)
+   Duration: 4:00
+   Year: 2006
+
+8. Tone Deaf
+   Artist: Eminem
+   Album: Music To Be Murdered By - Side B (Deluxe Edition)
+   Duration: 4:50
+   Year: 2020
+
+9. The Next Episode (feat. Snoop Dogg)
+   Artist: Dr. Dre
+   Album: 2001
+   Duration: 2:42
+   Year: 1999
+
+10. Ice Cream
+   Artist: BLACKPINK & Selena Gomez
+   Album: THE ALBUM
+   Duration: 2:56
+   Year: 2020
+
+11. The Adventures of Moon Man & Slim Shady
+   Artist: Kid Cudi & Eminem
+   Album: The Adventures of Moon Man & Slim Shady - Single
+   Duration: 4:25
+   Year: 2020
+
+

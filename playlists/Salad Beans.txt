@@ -1,0 +1,30 @@
+# Salad Beans
+# Tracks: 4
+# Duration: 16 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:39 PM
+
+1. Payphone (feat. Wiz Khalifa)
+   Artist: Maroon 5
+   Album: Overexposed (Deluxe Version)
+   Duration: 3:51
+   Year: 2012
+
+2. Yellow
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 4:29
+   Year: 2000
+
+3. Sunday Morning
+   Artist: Maroon 5
+   Album: Songs About Jane
+   Duration: 4:04
+   Year: 2002
+
+4. Gravity
+   Artist: Sara Bareilles
+   Album: Little Voice
+   Duration: 3:53
+   Year: 2007
+
+

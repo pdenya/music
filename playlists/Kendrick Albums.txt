@@ -1,0 +1,564 @@
+# Kendrick Albums
+# Tracks: 93
+# Duration: 402 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:37 PM
+
+1. Sherane a.k.a. Master Splinter’s Daughter
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:33
+   Year: 2012
+
+2. Bitch, Don’t Kill My Vibe
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:11
+   Year: 2012
+
+3. Backseat Freestyle
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 3:33
+   Year: 2012
+
+4. The Art of Peer Pressure
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:25
+   Year: 2012
+
+5. Money Trees (feat. Jay Rock)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 6:27
+   Year: 2012
+
+6. Poetic Justice (feat. Drake)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:00
+   Year: 2012
+
+7. Good Kid
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 3:34
+   Year: 2012
+
+8. m.A.A.d city (feat. MC Eiht)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:50
+   Year: 2012
+
+9. Swimming Pools (Drank) [Extended Version]
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:14
+   Year: 2012
+
+10. Sing About Me, I'm Dying of Thirst
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 12:04
+   Year: 2012
+
+11. Real (feat. Anna Wise)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 7:23
+   Year: 2012
+
+12. Compton (feat. Dr. Dre)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:08
+   Year: 2012
+
+13. The Recipe (feat. Dr. Dre) [Bonus Track]
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 5:53
+   Year: 2012
+
+14. Black Boy Fly (Bonus Track)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:39
+   Year: 2012
+
+15. Now Or Never (feat. Mary J. Blige) [Bonus Track]
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:17
+   Year: 2012
+
+16. Collect Calls (Bonus Track)
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 3:58
+   Year: 2012
+
+17. Swimming Pools (Drank) [Bonus Track]
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:08
+   Year: 2012
+
+18. Bitch, Don’t Kill My Vibe (feat. JAY Z) [Remix]
+   Artist: Kendrick Lamar
+   Album: good kid, m.A.A.d city (Deluxe Version)
+   Duration: 4:39
+   Year: 2012
+
+19. Wesley's Theory (feat. George Clinton & Thundercat)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:47
+   Year: 2015
+
+20. For Free? (Interlude)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 2:11
+   Year: 2015
+
+21. King Kunta
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 3:55
+   Year: 2015
+
+22. Institutionalized (feat. Bilal, Anna Wise & Snoop Dogg)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:32
+   Year: 2015
+
+23. These Walls (feat. Bilal, Anna Wise & Thundercat)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 5:01
+   Year: 2015
+
+24. u
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:28
+   Year: 2015
+
+25. Alright
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 3:39
+   Year: 2015
+
+26. For Sale? (Interlude)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:52
+   Year: 2015
+
+27. Momma
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:43
+   Year: 2015
+
+28. Hood Politics
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:53
+   Year: 2015
+
+29. How Much a Dollar Cost (feat. James Fauntleroy & Ronald Isley)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:22
+   Year: 2015
+
+30. Complexion (A Zulu Love) [feat. Rapsody]
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:23
+   Year: 2015
+
+31. The Blacker the Berry
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 5:29
+   Year: 2015
+
+32. You Ain't Gotta Lie (Momma Said)
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 4:02
+   Year: 2015
+
+33. i
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 5:36
+   Year: 2014
+
+34. Mortal Man
+   Artist: Kendrick Lamar
+   Album: To Pimp a Butterfly
+   Duration: 12:07
+   Year: 2015
+
+35. BLOOD.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 1:58
+   Year: 2017
+
+36. DNA.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 3:06
+   Year: 2017
+
+37. YAH.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 2:40
+   Year: 2017
+
+38. ELEMENT.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 3:29
+   Year: 2017
+
+39. FEEL.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 3:35
+   Year: 2017
+
+40. LOYALTY. (feat. Rihanna)
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 3:47
+   Year: 2017
+
+41. PRIDE.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 4:35
+   Year: 2017
+
+42. HUMBLE.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 2:57
+   Year: 2017
+
+43. LUST.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 5:08
+   Year: 2017
+
+44. LOVE. (feat. Zacari)
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 3:33
+   Year: 2017
+
+45. XXX. (feat. U2)
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 4:14
+   Year: 2017
+
+46. FEAR.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 7:41
+   Year: 2017
+
+47. GOD.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 4:09
+   Year: 2017
+
+48. DUCKWORTH.
+   Artist: Kendrick Lamar
+   Album: DAMN.
+   Duration: 4:09
+   Year: 2017
+
+49. United In Grief
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 4:15
+   Year: 2022
+
+50. N95
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:16
+   Year: 2022
+
+51. Worldwide Steppers
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:23
+   Year: 2022
+
+52. Die Hard
+   Artist: Kendrick Lamar, Blxst & Amanda Reifer
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:59
+   Year: 2022
+
+53. Father Time (feat. Sampha)
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:42
+   Year: 2022
+
+54. Rich (Interlude)
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 1:43
+   Year: 2022
+
+55. Rich Spirit
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:22
+   Year: 2022
+
+56. We Cry Together
+   Artist: Kendrick Lamar & Taylour Paige
+   Album: Mr. Morale & The Big Steppers
+   Duration: 5:41
+   Year: 2022
+
+57. Purple Hearts
+   Artist: Kendrick Lamar, Summer Walker & Ghostface Killah
+   Album: Mr. Morale & The Big Steppers
+   Duration: 5:29
+   Year: 2022
+
+58. Count Me Out
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 4:44
+   Year: 2022
+
+59. Crown
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 4:24
+   Year: 2022
+
+60. Silent Hill
+   Artist: Kendrick Lamar & Kodak Black
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:41
+   Year: 2022
+
+61. Savior (Interlude)
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 2:33
+   Year: 2022
+
+62. Savior
+   Artist: Kendrick Lamar, Baby Keem & Sam Dew
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:44
+   Year: 2022
+
+63. Auntie Diaries
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 4:41
+   Year: 2022
+
+64. Mr. Morale
+   Artist: Kendrick Lamar & Tanna Leone
+   Album: Mr. Morale & The Big Steppers
+   Duration: 3:31
+   Year: 2022
+
+65. Mother I Sober (feat. Beth Gibbons)
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 6:47
+   Year: 2022
+
+66. Mirror
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 4:16
+   Year: 2022
+
+67. The Heart Part 5
+   Artist: Kendrick Lamar
+   Album: Mr. Morale & The Big Steppers
+   Duration: 5:32
+   Year: 2022
+
+68. Black Panther
+   Artist: Kendrick Lamar
+   Album: Black Panther: The Album
+   Duration: 2:11
+   Year: 2018
+
+69. All The Stars
+   Artist: Kendrick Lamar, SZA
+   Album: Black Panther: The Album
+   Duration: 3:52
+   Year: 2018
+
+70. X
+   Artist: ScHoolboy Q, 2 Chainz, Saudi
+   Album: Black Panther: The Album
+   Duration: 4:27
+   Year: 2018
+
+71. The Ways
+   Artist: Khalid, Swae Lee
+   Album: Black Panther: The Album
+   Duration: 3:59
+   Year: 2018
+
+72. Opps
+   Artist: Vince Staples, Yugen Blakrok
+   Album: Black Panther: The Album
+   Duration: 3:01
+   Year: 2018
+
+73. I Am
+   Artist: Jorja Smith
+   Album: Black Panther: The Album
+   Duration: 3:29
+   Year: 2018
+
+74. Paramedic!
+   Artist: SOB X RBE
+   Album: Black Panther: The Album
+   Duration: 3:39
+   Year: 2018
+
+75. Bloody Waters
+   Artist: Ab-Soul, Anderson .Paak, James Blake
+   Album: Black Panther: The Album
+   Duration: 4:32
+   Year: 2018
+
+76. King's Dead
+   Artist: Jay Rock, Kendrick Lamar, Future, James Blake
+   Album: Black Panther: The Album
+   Duration: 3:45
+   Year: 2018
+
+77. Redemption Interlude
+   Artist: Zacari
+   Album: Black Panther: The Album
+   Duration: 1:25
+   Year: 2018
+
+78. Redemption
+   Artist: Zacari, Babes Wodumo
+   Album: Black Panther: The Album
+   Duration: 3:42
+   Year: 2018
+
+79. Seasons
+   Artist: Mozzy, Sjava, Reason
+   Album: Black Panther: The Album
+   Duration: 4:02
+   Year: 2018
+
+80. Big Shot
+   Artist: Kendrick Lamar, Travis Scott
+   Album: Black Panther: The Album
+   Duration: 3:42
+   Year: 2018
+
+81. Pray For Me
+   Artist: The Weeknd, Kendrick Lamar
+   Album: Black Panther: The Album
+   Duration: 3:31
+   Year: 2018
+
+82. wacced out murals
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 5:17
+   Year: 2024
+
+83. squabble up
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 2:38
+   Year: 2024
+
+84. luther
+   Artist: Kendrick Lamar & SZA
+   Album: GNX
+   Duration: 2:58
+   Year: 2024
+
+85. man at the garden
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 3:53
+   Year: 2024
+
+86. hey now (feat. Dody6)
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 3:37
+   Year: 2024
+
+87. reincarnated
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 4:36
+   Year: 2024
+
+88. tv off (feat. Lefty Gunplay)
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 3:41
+   Year: 2024
+
+89. dodger blue (feat. Wallie the Sensei, Siete7x & Roddy Ricch)
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 2:11
+   Year: 2024
+
+90. peekaboo (feat. AzChike)
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 2:36
+   Year: 2024
+
+91. heart pt. 6
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 4:52
+   Year: 2024
+
+92. gnx (feat. Hitta J3, YoungThreat & Peysoh)
+   Artist: Kendrick Lamar
+   Album: GNX
+   Duration: 3:14
+   Year: 2024
+
+93. gloria
+   Artist: Kendrick Lamar & SZA
+   Album: GNX
+   Duration: 4:48
+   Year: 2024
+
+

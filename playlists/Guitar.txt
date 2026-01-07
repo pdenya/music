@@ -1,0 +1,42 @@
+# Guitar
+# Tracks: 6
+# Duration: 25 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:37 PM
+
+1. The Forgotten, Pt. 2
+   Artist: Joe Satriani
+   Album: Flying In a Blue Dream
+   Duration: 5:08
+   Year: 1989
+
+2. Always with Me, Always with You
+   Artist: Joe Satriani
+   Album: Surfing with the Alien
+   Duration: 3:22
+   Year: 1987
+
+3. Rock Me Baby (Remastered)
+   Artist: Johnny "Guitar" Watson
+   Album: Blues Kingpins: B.B. King
+   Duration: 3:00
+   Year: 1966
+
+4. The Thrill Is Gone
+   Artist: B.B. King
+   Album: Completely Well
+   Duration: 5:31
+   Year: 1969
+
+5. Pride and Joy
+   Artist: Stevie Ray Vaughan & Double Trouble
+   Album: Texas Flood
+   Duration: 3:41
+   Year: 1983
+
+6. Cliffs of Dover
+   Artist: Eric Johnson
+   Album: Ah Via Musicom
+   Duration: 4:10
+   Year: 1990
+
+

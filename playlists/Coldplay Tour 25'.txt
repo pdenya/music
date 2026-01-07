@@ -1,0 +1,126 @@
+# Coldplay Tour 25'
+# Tracks: 20
+# Duration: 79 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:36 PM
+
+1. ⦵
+   Artist: Coldplay
+   Album: Music of the Spheres
+   Duration: 0:53
+   Year: 2021
+
+2. Higher Power
+   Artist: Coldplay
+   Album: Music of the Spheres
+   Duration: 3:27
+   Year: 2021
+
+3. Adventure of a Lifetime
+   Artist: Coldplay
+   Album: A Head Full of Dreams
+   Duration: 4:24
+   Year: 2015
+
+4. Paradise
+   Artist: Coldplay
+   Album: Mylo Xyloto
+   Duration: 4:38
+   Year: 2011
+
+5. The Scientist
+   Artist: Coldplay
+   Album: A Rush of Blood to the Head
+   Duration: 5:09
+   Year: 2002
+
+6. Viva La Vida
+   Artist: Coldplay
+   Album: Viva La Vida or Death and All His Friends
+   Duration: 4:01
+   Year: 2008
+
+7. Hymn for the Weekend
+   Artist: Coldplay
+   Album: A Head Full of Dreams
+   Duration: 4:19
+   Year: 2015
+
+8. Charlie Brown
+   Artist: Coldplay
+   Album: Mylo Xyloto
+   Duration: 4:45
+   Year: 2011
+
+9. Yellow
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 4:29
+   Year: 2000
+
+10. ♡
+   Artist: Coldplay X We Are KING X Jacob Collier
+   Album: Music of the Spheres
+   Duration: 3:09
+   Year: 2021
+
+11. People of The Pride
+   Artist: Coldplay
+   Album: Music Of The Spheres
+   Duration: 3:37
+   Year: 2021
+
+12. Clocks
+   Artist: Coldplay
+   Album: A Rush of Blood to the Head
+   Duration: 5:07
+   Year: 2002
+
+13. My Universe
+   Artist: Coldplay X BTS
+   Album: Music of the Spheres
+   Duration: 3:46
+   Year: 2021
+
+14. A Sky Full of Stars
+   Artist: Coldplay
+   Album: Ghost Stories
+   Duration: 4:28
+   Year: 2014
+
+15. Sunrise
+   Artist: Coldplay
+   Album: Everyday Life
+   Duration: 2:31
+   Year: 2019
+
+16. Sparks
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 3:47
+   Year: 2000
+
+17. Humankind
+   Artist: Coldplay
+   Album: Music Of The Spheres
+   Duration: 4:27
+   Year: 2021
+
+18. Fix You
+   Artist: Coldplay
+   Album: X&Y
+   Duration: 4:55
+   Year: 2005
+
+19. Biutyful
+   Artist: Coldplay
+   Album: Music of the Spheres
+   Duration: 3:12
+   Year: 2021
+
+20. feelslikeimfallinginlove
+   Artist: Coldplay
+   Album: Moon Music
+   Duration: 3:56
+   Year: 2024
+
+

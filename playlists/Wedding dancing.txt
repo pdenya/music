@@ -1,0 +1,150 @@
+# Wedding dancing
+# Tracks: 24
+# Duration: 89 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:39 PM
+
+1. Can't Help Falling In Love
+   Artist: Elvis Presley
+   Album: The Essential Elvis Presley
+   Duration: 3:02
+   Year: 1961
+
+2. Uptown Funk (feat. Bruno Mars)
+   Artist: Mark Ronson
+   Album: Uptown Special
+   Duration: 4:30
+   Year: 2014
+
+3. Sugar
+   Artist: Maroon 5
+   Album: V (Deluxe)
+   Duration: 3:56
+   Year: 2014
+
+4. You And I
+   Artist: Ingrid Michaelson
+   Album: Be OK
+   Duration: 2:28
+   Year: 2008
+
+5. Your Song
+   Artist: Elton John
+   Album: Elton John
+   Duration: 4:05
+   Year: 1970
+
+6. Dog Days Are Over
+   Artist: Florence + the Machine
+   Album: Lungs
+   Duration: 4:13
+   Year: 2008
+
+7. Sleep All Day
+   Artist: Jason Mraz
+   Album: Waiting for My Rocket to Come
+   Duration: 4:57
+   Year: 2002
+
+8. Mr. Brightside
+   Artist: The Killers
+   Album: Direct Hits
+   Duration: 3:44
+   Year: 2003
+
+9. Ice Cream
+   Artist: BLACKPINK & Selena Gomez
+   Album: Ice Cream - Single
+   Duration: 2:56
+   Year: 2020
+
+10. Falling Slowly
+   Artist: Glen Hansard & Markéta Irglová
+   Album: Once (Music from the Motion Picture)
+   Duration: 4:04
+   Year: 2006
+
+11. POP/STARS (feat. Jaira Burns & League of Legends Music)
+   Artist: K/DA, Madison Beer & i-dle
+   Album: POP/STARS (feat. Jaira Burns & League of Legends Music) - Single
+   Duration: 3:11
+   Year: 2018
+
+12. The Way You Move (feat. Sleepy Brown)
+   Artist: Outkast
+   Album: Speakerboxxx/The Love Below
+   Duration: 3:54
+   Year: 2003
+
+13. Dance the Night Away
+   Artist: Van Halen
+   Album: Van Halen II
+   Duration: 3:08
+   Year: 1979
+
+14. Don't Stop Me Now
+   Artist: Queen
+   Album: Greatest Hits I, II & III: The Platinum Collection
+   Duration: 3:30
+   Year: 1978
+
+15. September
+   Artist: Earth, Wind & Fire
+   Album: Greatest Hits
+   Duration: 3:35
+   Year: 1978
+
+16. Ice Cream
+   Artist: Sarah McLachlan
+   Album: Fumbling Towards Ecstasy
+   Duration: 2:45
+   Year: 1993
+
+17. I Wanna Dance with Somebody (Who Loves Me)
+   Artist: Whitney Houston
+   Album: Whitney
+   Duration: 4:53
+   Year: 1987
+
+18. Peaches
+   Artist: Jack Black
+   Album: The Super Mario Bros. Movie (Original Motion Picture Soundtrack)
+   Duration: 1:35
+   Year: 2023
+
+19. How Deep Is Your Love
+   Artist: Bee Gees
+   Album: Greatest
+   Duration: 4:05
+   Year: 1977
+
+20. Wannabe
+   Artist: Spice Girls
+   Album: Wannabe 25 - EP
+   Duration: 2:56
+   Year: 1996
+
+21. Can't Get Enough of Your Love, Babe
+   Artist: Barry White
+   Album: Can't Get Enough
+   Duration: 4:34
+   Year: 1974
+
+22. This Kiss
+   Artist: Faith Hill
+   Album: Faith
+   Duration: 3:14
+   Year: 1998
+
+23. Crazy Little Thing Called Love
+   Artist: Queen
+   Album: Greatest Hits I, II & III: The Platinum Collection
+   Duration: 2:45
+   Year: 1979
+
+24. #41
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 6:40
+   Year: 1996
+
+

@@ -1,0 +1,503 @@
+#!/bin/bash
+
+# music-cli: A command-line interface for Apple Music playlist management
+
+set -e
+
+usage() {
+    cat << 'EOF'
+Usage: music <command> [arguments]
+
+Commands:
+  playlists                    List all playlists
+  playlist <name>              List songs in a playlist
+  create <name>                Create a new playlist
+  add <playlist> <query>       Add songs to a playlist
+  remove <playlist> <song>     Remove a song from a playlist
+  export <playlist> [file]     Export playlist with metadata to file
+  import <file>                Import playlist from exported file
+  delete <playlist>            Delete a playlist
+
+Query modifiers for 'add':
+  "song name"                  Search by song name
+  "artist:Name"                Search by artist
+  "album:Name"                 Search by album
+
+Examples:
+  music playlists
+  music playlist "My Favorites"
+  music create "Road Trip"
+  music add "Road Trip" "Bohemian Rhapsody"
+  music add "Road Trip" "artist:Queen"
+  music remove "Road Trip" "Bohemian Rhapsody"
+EOF
+    exit 1
+}
+
+# List all user playlists
+cmd_playlists() {
+    osascript << 'EOF'
+tell application "Music"
+    set playlistNames to name of every user playlist
+    set output to ""
+    repeat with pName in playlistNames
+        set output to output & pName & linefeed
+    end repeat
+    return text 1 thru -2 of output
+end tell
+EOF
+}
+
+# List songs in a playlist
+cmd_playlist() {
+    local playlist_name="$1"
+    if [[ -z "$playlist_name" ]]; then
+        echo "Error: Playlist name required" >&2
+        exit 1
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        set thePlaylist to user playlist "$playlist_name"
+        set trackList to every track of thePlaylist
+        if (count of trackList) = 0 then
+            return "Playlist is empty"
+        end if
+        set output to ""
+        repeat with t in trackList
+            set trackName to name of t
+            set trackArtist to artist of t
+            set output to output & trackName & " - " & trackArtist & linefeed
+        end repeat
+        return text 1 thru -2 of output
+    on error
+        return "Error: Playlist '$playlist_name' not found"
+    end try
+end tell
+EOF
+}
+
+# Create a new playlist
+cmd_create() {
+    local playlist_name="$1"
+    if [[ -z "$playlist_name" ]]; then
+        echo "Error: Playlist name required" >&2
+        exit 1
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        set existingPlaylist to user playlist "$playlist_name"
+        return "Error: Playlist '$playlist_name' already exists"
+    on error
+        make new user playlist with properties {name:"$playlist_name"}
+        return "Created playlist: $playlist_name"
+    end try
+end tell
+EOF
+}
+
+# Add songs to a playlist
+cmd_add() {
+    local playlist_name="$1"
+    local query="$2"
+
+    if [[ -z "$playlist_name" ]] || [[ -z "$query" ]]; then
+        echo "Error: Playlist name and search query required" >&2
+        exit 1
+    fi
+
+    # Determine search type
+    local search_type="song"
+    local search_term="$query"
+
+    if [[ "$query" == artist:* ]]; then
+        search_type="artist"
+        search_term="${query#artist:}"
+    elif [[ "$query" == album:* ]]; then
+        search_type="album"
+        search_term="${query#album:}"
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        set thePlaylist to user playlist "$playlist_name"
+    on error
+        return "Error: Playlist '$playlist_name' not found"
+    end try
+
+    set searchType to "$search_type"
+    set searchTerm to "$search_term"
+    set foundTracks to {}
+
+    -- First search in library
+    try
+        if searchType = "artist" then
+            set foundTracks to (every track of library playlist 1 whose artist contains searchTerm)
+        else if searchType = "album" then
+            set foundTracks to (every track of library playlist 1 whose album contains searchTerm)
+        else
+            set foundTracks to (every track of library playlist 1 whose name contains searchTerm)
+        end if
+    end try
+
+    -- If not found in library, search across all user playlists (for streaming tracks)
+    if (count of foundTracks) = 0 then
+        set allPlaylists to every user playlist
+        repeat with pl in allPlaylists
+            try
+                if searchType = "artist" then
+                    set playlistTracks to (every track of pl whose artist contains searchTerm)
+                else if searchType = "album" then
+                    set playlistTracks to (every track of pl whose album contains searchTerm)
+                else
+                    set playlistTracks to (every track of pl whose name contains searchTerm)
+                end if
+                repeat with t in playlistTracks
+                    set end of foundTracks to contents of t
+                end repeat
+            end try
+        end repeat
+    end if
+
+    if (count of foundTracks) = 0 then
+        return "No tracks found matching: $search_term"
+    end if
+
+    set addedCount to 0
+    repeat with t in foundTracks
+        try
+            duplicate t to thePlaylist
+            set addedCount to addedCount + 1
+        end try
+    end repeat
+
+    return "Added " & addedCount & " track(s) to '$playlist_name'"
+end tell
+EOF
+}
+
+# Remove a song from a playlist
+cmd_remove() {
+    local playlist_name="$1"
+    local song_name="$2"
+
+    if [[ -z "$playlist_name" ]] || [[ -z "$song_name" ]]; then
+        echo "Error: Playlist name and song name required" >&2
+        exit 1
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        set thePlaylist to user playlist "$playlist_name"
+    on error
+        return "Error: Playlist '$playlist_name' not found"
+    end try
+
+    set foundTracks to (every track of thePlaylist whose name contains "$song_name")
+
+    if (count of foundTracks) = 0 then
+        return "No tracks found matching: $song_name"
+    end if
+
+    set removedCount to 0
+    repeat with t in foundTracks
+        delete t
+        set removedCount to removedCount + 1
+    end repeat
+
+    return "Removed " & removedCount & " track(s) from '$playlist_name'"
+end tell
+EOF
+}
+
+# Export playlist with metadata
+cmd_export() {
+    local playlist_name="$1"
+    local output_file="$2"
+
+    if [[ -z "$playlist_name" ]]; then
+        echo "Error: Playlist name required" >&2
+        exit 1
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        set thePlaylist to user playlist "$playlist_name"
+    on error
+        return "Error: Playlist '$playlist_name' not found"
+    end try
+
+    set trackList to every track of thePlaylist
+    set trackCount to count of trackList
+
+    -- Calculate total duration
+    set totalSeconds to 0
+    repeat with t in trackList
+        try
+            set totalSeconds to totalSeconds + (duration of t)
+        end try
+    end repeat
+    set totalMinutes to round (totalSeconds / 60)
+
+    -- Header with metadata
+    set output to "# " & name of thePlaylist & linefeed
+    set output to output & "# Tracks: " & trackCount & linefeed
+    set output to output & "# Duration: " & totalMinutes & " minutes" & linefeed
+    set output to output & "# Exported: " & (current date) as string & linefeed
+    set output to output & linefeed
+
+    if trackCount = 0 then
+        set output to output & "(empty playlist)" & linefeed
+        return output
+    end if
+
+    -- Track listing with metadata
+    set trackNum to 1
+    repeat with t in trackList
+        set trackName to name of t
+        set trackArtist to artist of t
+        try
+            set trackAlbum to album of t
+        on error
+            set trackAlbum to ""
+        end try
+        set durString to ""
+        try
+            set trackDuration to duration of t
+            if trackDuration > 0 then
+                set totalSecs to round trackDuration
+                set mins to totalSecs div 60
+                set secs to totalSecs mod 60
+                if secs < 10 then
+                    set durString to (mins as string) & ":0" & (secs as string)
+                else
+                    set durString to (mins as string) & ":" & (secs as string)
+                end if
+            end if
+        end try
+        try
+            set trackYear to year of t
+        on error
+            set trackYear to ""
+        end try
+
+        set output to output & trackNum & ". " & trackName & linefeed
+        set output to output & "   Artist: " & trackArtist & linefeed
+        if trackAlbum is not "" then
+            set output to output & "   Album: " & trackAlbum & linefeed
+        end if
+        if durString is not "" then
+            set output to output & "   Duration: " & durString & linefeed
+        end if
+        if trackYear is not "" and trackYear is not 0 then
+            set output to output & "   Year: " & trackYear & linefeed
+        end if
+        set output to output & linefeed
+
+        set trackNum to trackNum + 1
+    end repeat
+
+    return output
+end tell
+EOF
+}
+
+# Import playlist from file
+cmd_import() {
+    local input_file="$1"
+
+    if [[ -z "$input_file" ]]; then
+        echo "Error: Input file required" >&2
+        exit 1
+    fi
+
+    if [[ ! -f "$input_file" ]]; then
+        echo "Error: File not found: $input_file" >&2
+        exit 1
+    fi
+
+    # Parse playlist name from first line
+    local playlist_name
+    playlist_name=$(head -1 "$input_file" | sed 's/^# //')
+
+    if [[ -z "$playlist_name" ]]; then
+        echo "Error: Could not parse playlist name from file" >&2
+        exit 1
+    fi
+
+    echo "Importing playlist: $playlist_name"
+
+    # Check if playlist exists
+    local exists
+    exists=$(osascript -e "tell application \"Music\" to try
+        get user playlist \"$playlist_name\"
+        return \"yes\"
+    on error
+        return \"no\"
+    end try" 2>/dev/null)
+
+    if [[ "$exists" == "yes" ]]; then
+        echo "Error: Playlist '$playlist_name' already exists. Delete it first or rename." >&2
+        exit 1
+    fi
+
+    # Create the playlist
+    osascript -e "tell application \"Music\" to make new user playlist with properties {name:\"$playlist_name\"}" > /dev/null
+
+    # Parse tracks and add them
+    local added=0
+    local failed=0
+    local track_name=""
+    local track_artist=""
+
+    while IFS= read -r line; do
+        # Track name line: starts with number and dot
+        if [[ "$line" =~ ^[0-9]+\.[[:space:]](.+)$ ]]; then
+            track_name="${BASH_REMATCH[1]}"
+            track_artist=""
+        # Artist line
+        elif [[ "$line" =~ ^[[:space:]]+Artist:[[:space:]](.+)$ ]]; then
+            track_artist="${BASH_REMATCH[1]}"
+
+            # Now we have both name and artist, try to add the track
+            if [[ -n "$track_name" && -n "$track_artist" ]]; then
+                # Escape quotes for AppleScript
+                local safe_name="${track_name//\"/\\\"}"
+                local safe_artist="${track_artist//\"/\\\"}"
+                local safe_playlist="${playlist_name//\"/\\\"}"
+
+                local result
+                result=$(osascript << APPLESCRIPT
+tell application "Music"
+    set thePlaylist to user playlist "$safe_playlist"
+    set foundTrack to missing value
+
+    -- Search in library first
+    try
+        set foundTracks to (every track of library playlist 1 whose name is "$safe_name" and artist contains "$safe_artist")
+        if (count of foundTracks) > 0 then
+            set foundTrack to item 1 of foundTracks
+        end if
+    end try
+
+    -- If not found, try partial match on name
+    if foundTrack is missing value then
+        try
+            set foundTracks to (every track of library playlist 1 whose name contains "$safe_name" and artist contains "$safe_artist")
+            if (count of foundTracks) > 0 then
+                set foundTrack to item 1 of foundTracks
+            end if
+        end try
+    end if
+
+    -- Search in playlists for streaming tracks
+    if foundTrack is missing value then
+        repeat with pl in (every user playlist)
+            try
+                set foundTracks to (every track of pl whose name is "$safe_name" and artist contains "$safe_artist")
+                if (count of foundTracks) > 0 then
+                    set foundTrack to item 1 of foundTracks
+                    exit repeat
+                end if
+            end try
+        end repeat
+    end if
+
+    -- Try partial match in playlists
+    if foundTrack is missing value then
+        repeat with pl in (every user playlist)
+            try
+                set foundTracks to (every track of pl whose name contains "$safe_name" and artist contains "$safe_artist")
+                if (count of foundTracks) > 0 then
+                    set foundTrack to item 1 of foundTracks
+                    exit repeat
+                end if
+            end try
+        end repeat
+    end if
+
+    if foundTrack is not missing value then
+        duplicate foundTrack to thePlaylist
+        return "ok"
+    else
+        return "not found"
+    end if
+end tell
+APPLESCRIPT
+                2>/dev/null)
+
+                if [[ "$result" == "ok" ]]; then
+                    ((added++))
+                    echo "  + $track_name"
+                else
+                    ((failed++))
+                    echo "  ! Not found: $track_name - $track_artist"
+                fi
+            fi
+        fi
+    done < "$input_file"
+
+    echo ""
+    echo "Import complete: $added tracks added, $failed not found"
+}
+
+# Delete a playlist
+cmd_delete() {
+    local playlist_name="$1"
+
+    if [[ -z "$playlist_name" ]]; then
+        echo "Error: Playlist name required" >&2
+        exit 1
+    fi
+
+    osascript << EOF
+tell application "Music"
+    try
+        delete user playlist "$playlist_name"
+        return "Deleted playlist: $playlist_name"
+    on error
+        return "Error: Playlist '$playlist_name' not found"
+    end try
+end tell
+EOF
+}
+
+# Main command dispatcher
+case "${1:-}" in
+    playlists)
+        cmd_playlists
+        ;;
+    playlist)
+        cmd_playlist "$2"
+        ;;
+    create)
+        cmd_create "$2"
+        ;;
+    add)
+        cmd_add "$2" "$3"
+        ;;
+    remove)
+        cmd_remove "$2" "$3"
+        ;;
+    export)
+        cmd_export "$2" "$3"
+        ;;
+    import)
+        cmd_import "$2"
+        ;;
+    delete)
+        cmd_delete "$2"
+        ;;
+    -h|--help|help)
+        usage
+        ;;
+    *)
+        usage
+        ;;
+esac

@@ -1,0 +1,774 @@
+# easy rock
+# Tracks: 128
+# Duration: 523 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:36 PM
+
+1. #41
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 6:40
+   Year: 1996
+
+2. So Much to Say
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 4:07
+   Year: 1996
+
+3. The Space Between
+   Artist: Dave Matthews Band
+   Album: Everyday
+   Duration: 4:02
+   Year: 2001
+
+4. Ants Marching / Ode to Joy
+   Artist: The Piano Guys
+   Album: Wonders
+   Duration: 2:52
+   Year: 2014
+
+5. Crash Into Me
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 5:16
+   Year: 1996
+
+6. Two Step
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 6:27
+   Year: 1996
+
+7. Warehouse
+   Artist: Dave Matthews Band
+   Album: Under the Table and Dreaming (Expanded Edition)
+   Duration: 7:06
+   Year: 1994
+
+8. Grey Street
+   Artist: Dave Matthews Band
+   Album: Busted Stuff
+   Duration: 5:06
+   Year: 2002
+
+9. Typical Situation
+   Artist: Dave Matthews Band
+   Album: Under the Table and Dreaming (Expanded Edition)
+   Duration: 5:59
+   Year: 1994
+
+10. Dancing Nancies
+   Artist: Dave Matthews Band
+   Album: Under the Table and Dreaming (Expanded Edition)
+   Duration: 6:05
+   Year: 1994
+
+11. You And I
+   Artist: Ingrid Michaelson
+   Album: Be OK
+   Duration: 2:28
+   Year: 2008
+
+12. Geronimo
+   Artist: Sheppard
+   Album: Bombs Away
+   Duration: 3:38
+   Year: 2014
+
+13. 99 Red Balloons
+   Artist: Goldfinger
+   Album: Stomping Ground
+   Duration: 3:49
+   Year: 2000
+
+14. I Want You
+   Artist: Savage Garden
+   Album: Savage Garden
+   Duration: 3:52
+   Year: 1996
+
+15. Little Bitty Pretty One (Rerecorded)
+   Artist: Thurston Harris
+   Album: Little Bitty Pretty One
+   Duration: 2:23
+   Year: 1957
+
+16. Only the Good Die Young
+   Artist: Billy Joel
+   Album: The Essential Billy Joel
+   Duration: 3:56
+   Year: 1977
+
+17. Faith
+   Artist: George Michael
+   Album: Twenty Five
+   Duration: 3:16
+   Year: 1987
+
+18. Under the Bridge
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:34
+   Year: 1991
+
+19. Just the Way You Are
+   Artist: Bruno Mars
+   Album: Doo-Wops & Hooligans
+   Duration: 3:41
+   Year: 2010
+
+20. 24K Magic
+   Artist: Bruno Mars
+   Album: 24K Magic
+   Duration: 3:47
+   Year: 2016
+
+21. Honey, I'm Good.
+   Artist: Andy Grammer
+   Album: Magazines Or Novels (Deluxe Edition)
+   Duration: 3:19
+   Year: 2014
+
+22. Keep Your Head Up
+   Artist: Andy Grammer
+   Album: Andy Grammer
+   Duration: 3:10
+   Year: 2011
+
+23. Fine By Me
+   Artist: Andy Grammer
+   Album: Andy Grammer
+   Duration: 2:53
+   Year: 2011
+
+24. I'm Yours
+   Artist: Jason Mraz
+   Album: We Sing. We Dance. We Steal Things
+   Duration: 4:03
+   Year: 2008
+
+25. The Remedy (I Won't Worry)
+   Artist: Jason Mraz
+   Album: Waiting for My Rocket to Come
+   Duration: 4:16
+   Year: 2002
+
+26. That Thing You Do!
+   Artist: The Wonders
+   Album: That Thing You Do! (Original Motion Picture Soundtrack)
+   Duration: 2:47
+   Year: 1996
+
+27. You and I Both
+   Artist: Jason Mraz
+   Album: Waiting for My Rocket to Come
+   Duration: 3:38
+   Year: 2002
+
+28. Why Georgia
+   Artist: John Mayer
+   Album: Room for Squares
+   Duration: 4:29
+   Year: 2001
+
+29. Aqueous Transmission
+   Artist: Incubus
+   Album: Morning View
+   Duration: 7:47
+   Year: 2001
+
+30. Yellow
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 4:29
+   Year: 2000
+
+31. The Scientist
+   Artist: Coldplay
+   Album: A Rush of Blood to the Head
+   Duration: 5:09
+   Year: 2002
+
+32. Overkill
+   Artist: Boulder Bassoon Quartet
+   Album: Off the Record
+   Duration: 3:33
+   Year: 2018
+
+33. Lemme Freak
+   Artist: Lil Dicky
+   Album: Professional Rapper
+   Duration: 4:46
+   Year: 2014
+
+34. Happy (From "Despicable Me 2")
+   Artist: Pharrell Williams
+   Album: G I R L
+   Duration: 3:53
+   Year: 2013
+
+35. Personality (feat. T-Pain)
+   Artist: Lil Dicky
+   Album: Professional Rapper
+   Duration: 4:19
+   Year: 2015
+
+36. Shut Up and Dance
+   Artist: WALK THE MOON
+   Album: TALKING IS HARD (Expanded Edition)
+   Duration: 3:19
+   Year: 2014
+
+37. Pillow Talking (feat. Brain)
+   Artist: Lil Dicky
+   Album: Professional Rapper
+   Duration: 10:46
+   Year: 2015
+
+38. Black Dog
+   Artist: Led Zeppelin
+   Album: Led Zeppelin IV (Remastered)
+   Duration: 4:55
+   Year: 1971
+
+39. Paul Revere
+   Artist: Beastie Boys
+   Album: Licensed to Ill
+   Duration: 3:41
+   Year: 1986
+
+40. Twist and Shout (Mono)
+   Artist: The Beatles
+   Album: The U.S. Albums
+   Duration: 2:36
+   Year: 1963
+
+41. Wish You Were Here
+   Artist: Pink Floyd
+   Album: Wish You Were Here
+   Duration: 5:38
+   Year: 1975
+
+42. The Great Gig In the Sky
+   Artist: Pink Floyd
+   Album: A Foot In the Door: The Best of Pink Floyd
+   Duration: 4:44
+   Year: 1973
+
+43. Over the Hills and Far Away
+   Artist: Led Zeppelin
+   Album: Houses of the Holy (Remastered)
+   Duration: 4:51
+   Year: 1973
+
+44. Bron-Y-Aur Stomp
+   Artist: Led Zeppelin
+   Album: Led Zeppelin III (Remastered)
+   Duration: 4:17
+   Year: 1970
+
+45. Little Wing
+   Artist: The Jimi Hendrix Experience
+   Album: Experience Hendrix: The Best of Jimi Hendrix
+   Duration: 2:26
+   Year: 1967
+
+46. Behind Blue Eyes
+   Artist: The Who
+   Album: 20th Century Masters: The Millennium Collection: Best Of The Who
+   Duration: 3:43
+   Year: 1971
+
+47. Smooth (feat. Rob Thomas)
+   Artist: Santana
+   Album: Ultimate Santana
+   Duration: 4:56
+   Year: 1999
+
+48. Heaven
+   Artist: Los Lonely Boys
+   Album: Los Lonely Boys (Bonus Version)
+   Duration: 3:47
+   Year: 2004
+
+49. Smoke On the Water
+   Artist: Deep Purple
+   Album: Machine Head
+   Duration: 5:41
+   Year: 1972
+
+50. You Shook Me All Night Long
+   Artist: AC/DC
+   Album: Back In Black
+   Duration: 3:30
+   Year: 1980
+
+51. Sons & Daughters
+   Artist: The Decemberists
+   Album: The Crane Wife (10th Anniversary Edition)
+   Duration: 5:16
+   Year: 2006
+
+52. Chicken Attack (feat. Takeo Ischi)
+   Artist: The Gregory Brothers
+   Album: Song Voyage
+   Duration: 2:36
+   Year: 2016
+
+53. Fett's Vette
+   Artist: MC Chris
+   Album: Zack and Miri Make a Porno (Music From The Motion Picture) [Edited]
+   Duration: 3:23
+   Year: 2001
+
+54. Tribute
+   Artist: Tenacious D
+   Album: Tenacious D
+   Duration: 4:08
+   Year: 2001
+
+55. Love Song
+   Artist: Sara Bareilles
+   Album: Little Voice
+   Duration: 4:18
+   Year: 2007
+
+56. Love Me Two Times
+   Artist: The Doors
+   Album: Strange Days (50th Anniversary Deluxe Edition)
+   Duration: 3:16
+   Year: 1967
+
+57. Lips Are Movin
+   Artist: Meghan Trainor
+   Album: Title (Deluxe Edition)
+   Duration: 3:02
+   Year: 2014
+
+58. Upside Down
+   Artist: Jack Johnson
+   Album: Sing-A-Longs and Lullabies for the film Curious George (Soundtrack)
+   Duration: 3:29
+   Year: 2005
+
+59. Better Together
+   Artist: Jack Johnson
+   Album: In Between Dreams (Bonus Track Version)
+   Duration: 3:28
+   Year: 2005
+
+60. Lullaby (feat. Matt Costa)
+   Artist: Jack Johnson
+   Album: Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George
+   Duration: 2:47
+   Year: 2005
+
+61. Banana Pancakes
+   Artist: Jack Johnson
+   Album: In Between Dreams (Bonus Track Version)
+   Duration: 3:12
+   Year: 2005
+
+62. Everlong
+   Artist: Foo Fighters
+   Album: The Colour And The Shape
+   Duration: 4:11
+   Year: 1997
+
+63. Dog Days Are Over
+   Artist: Florence + the Machine
+   Album: Lungs
+   Duration: 4:13
+   Year: 2008
+
+64. Set It All Free
+   Artist: Scarlett Johansson
+   Album: Sing (Original Motion Picture Soundtrack Deluxe)
+   Duration: 3:35
+   Year: 2016
+
+65. Don't You Worry 'Bout a Thing
+   Artist: Tori Kelly
+   Album: Sing (Original Motion Picture Soundtrack Deluxe)
+   Duration: 4:01
+   Year: 2016
+
+66. Kiss from a Rose
+   Artist: Seal
+   Album: Seal: Best 1991-2004 (Deluxe Version)
+   Duration: 4:48
+   Year: 1994
+
+67. Let It Go
+   Artist: Idina Menzel
+   Album: Frozen (Original Motion Picture Soundtrack) [Deluxe Edition]
+   Duration: 3:45
+   Year: 2013
+
+68. Don't Wanna Know (feat. Kendrick Lamar)
+   Artist: Maroon 5
+   Album: Red Pill Blues (Deluxe)
+   Duration: 3:34
+   Year: 2016
+
+69. Sugar
+   Artist: Maroon 5
+   Album: V (Deluxe)
+   Duration: 3:56
+   Year: 2014
+
+70. Come Get It Bae
+   Artist: Pharrell Williams
+   Album: G I R L
+   Duration: 3:22
+   Year: 2014
+
+71. Sunday Morning
+   Artist: Maroon 5
+   Album: Songs About Jane
+   Duration: 4:04
+   Year: 2002
+
+72. I Am the Highway
+   Artist: Audioslave
+   Album: Audioslave
+   Duration: 5:35
+   Year: 2002
+
+73. Don't You Worry 'Bout a Thing
+   Artist: Stevie Wonder
+   Album: Innervisions
+   Duration: 4:45
+   Year: 1973
+
+74. Magic Carpet Ride
+   Artist: Steppenwolf
+   Album: The Second
+   Duration: 4:34
+   Year: 1968
+
+75. Bad Day
+   Artist: Daniel Powter
+   Album: Daniel Powter
+   Duration: 3:54
+   Year: 2005
+
+76. Galway Girl
+   Artist: Ed Sheeran
+   Album: ÷ (Deluxe)
+   Duration: 2:51
+   Year: 2017
+
+77. So Far Away
+   Artist: Donavon Frankenreiter
+   Album: Donavon Frankenreiter
+   Duration: 3:14
+   Year: 2004
+
+78. HandClap
+   Artist: Fitz and The Tantrums
+   Album: Fitz & the Tantrums (Deluxe)
+   Duration: 3:13
+   Year: 2016
+
+79. One Call Away
+   Artist: Charlie Puth
+   Album: Nine Track Mind
+   Duration: 3:14
+   Year: 2015
+
+80. Hello
+   Artist: Adele
+   Album: 25
+   Duration: 4:56
+   Year: 2015
+
+81. Have You Seen Me Lately?
+   Artist: Counting Crows
+   Album: Recovering the Satellites
+   Duration: 4:08
+   Year: 1996
+
+82. Cruisin'
+   Artist: Smokey Robinson
+   Album: 20th Century Masters - The Millennium Collection: The Best of Smokey Robinson & The Miracles
+   Duration: 4:29
+   Year: 1979
+
+83. Payphone (feat. Wiz Khalifa)
+   Artist: Maroon 5
+   Album: Overexposed (Deluxe Version)
+   Duration: 3:51
+   Year: 2012
+
+84. Viva La Vida
+   Artist: Coldplay
+   Album: Viva La Vida or Death and All His Friends
+   Duration: 4:01
+   Year: 2008
+
+85. Follow Through
+   Artist: Gavin DeGraw
+   Album: Chariot
+   Duration: 4:00
+   Year: 2003
+
+86. Your Body Is a Wonderland
+   Artist: John Mayer
+   Album: Room for Squares
+   Duration: 4:10
+   Year: 2001
+
+87. Go Do
+   Artist: Jónsi
+   Album: Go
+   Duration: 4:41
+   Year: 2010
+
+88. Colorblind
+   Artist: Counting Crows
+   Album: This Desert Life
+   Duration: 3:24
+   Year: 1999
+
+89. Meant to Live
+   Artist: Switchfoot
+   Album: The Best Yet
+   Duration: 3:20
+   Year: 2003
+
+90. POP/STARS (feat. Jaira Burns & League of Legends Music)
+   Artist: K/DA, Madison Beer & i-dle
+   Album: POP/STARS (feat. Jaira Burns & League of Legends Music) - Single
+   Duration: 3:11
+   Year: 2018
+
+91. Booty (feat. Iggy Azalea)
+   Artist: Jennifer Lopez
+   Album: Booty (feat. Iggy Azalea) - Single
+   Duration: 3:30
+   Year: 2014
+
+92. Feelin' Alright
+   Artist: Joe Cocker
+   Album: With a Little Help from My Friends
+   Duration: 4:11
+   Year: 1969
+
+93. 7 Years
+   Artist: Lukas Graham
+   Album: Lukas Graham
+   Duration: 3:57
+   Year: 2015
+
+94. Sæglópur
+   Artist: Sigur Rós
+   Album: Takk...
+   Duration: 7:39
+   Year: 2005
+
+95. Parklife
+   Artist: Blur
+   Album: Parklife
+   Duration: 3:05
+   Year: 1994
+
+96. Run Boy Run
+   Artist: Woodkid
+   Album: The Golden Age
+   Duration: 3:33
+   Year: 2012
+
+97. Happy Home
+   Artist: Lukas Graham
+   Album: Lukas Graham
+   Duration: 3:39
+   Year: 2014
+
+98. Strip No More
+   Artist: Lukas Graham
+   Album: Lukas Graham
+   Duration: 3:26
+   Year: 2015
+
+99. Anna Sun
+   Artist: WALK THE MOON
+   Album: Walk the Moon (Expanded Edition)
+   Duration: 5:21
+   Year: 2012
+
+100. Sunflower (Spider-Man: Into the Spider-Verse)
+   Artist: Post Malone & Swae Lee
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 2:38
+   Year: 2018
+
+101. City Song
+   Artist: Grace VanderWaal
+   Album: Just the Beginning
+   Duration: 3:21
+   Year: 2017
+
+102. The NeverEnding Story
+   Artist: Limahl
+   Album: The NeverEnding Story (Original Motion Picture Soundtrack)
+   Duration: 3:30
+   Year: 1984
+
+103. Hold Each Other (feat. FUTURISTIC)
+   Artist: A Great Big World
+   Album: When the Morning Comes
+   Duration: 3:38
+   Year: 2015
+
+104. Rhythm of Love
+   Artist: Plain White T's
+   Album: Wonders of the Younger
+   Duration: 3:20
+   Year: 2010
+
+105. Dear Winter
+   Artist: AJR
+   Album: Neotheater
+   Duration: 2:48
+   Year: 2019
+
+106. Jesus in LA
+   Artist: Alec Benjamin
+   Album: These Two Windows
+   Duration: 2:52
+   Year: 2020
+
+107. Eastside
+   Artist: benny blanco, Halsey & Khalid
+   Album: FRIENDS KEEP SECRETS
+   Duration: 2:51
+   Year: 2018
+
+108. Toss a Coin to Your Witcher
+   Artist: Sonya Belousova, Giona Ostinelli & Joey Batey
+   Album: The Witcher (Music from the Netflix Original Series)
+   Duration: 3:10
+   Year: 2020
+
+109. It's You
+   Artist: Ali Gatie
+   Album: YOU
+   Duration: 3:33
+   Year: 2019
+
+110. What Am I
+   Artist: Why Don't We
+   Album: What Am I - Single
+   Duration: 3:05
+   Year: 2019
+
+111. Think of Me
+   Artist: Emmy Rossum & Margaret Preece
+   Album: The Phantom of the Opera (Original Motion Picture Soundtrack)
+   Duration: 3:41
+   Year: 2004
+
+112. Phantom of the Opera (From "Phantom of the Opera")
+   Artist: Orlando Pops Orchestra
+   Album: Andrew Lloyd Webber - Gold
+   Duration: 3:50
+   Year: 1996
+
+113. All I Ask of You
+   Artist: Andrew Lloyd Webber, Emmy Rossum & Patrick Wilson
+   Album: The Phantom of the Opera (Original Motion Picture Soundtrack) [Deluxe Edition]
+   Duration: 4:52
+   Year: 2004
+
+114. The Point of No Return
+   Artist: Gerard Butler & Emmy Rossum
+   Album: The Phantom of the Opera (Original Motion Picture Soundtrack)
+   Duration: 8:01
+   Year: 2004
+
+115. Born to Be Wild
+   Artist: Steppenwolf
+   Album: Steppenwolf
+   Duration: 3:31
+   Year: 1968
+
+116. Walkin' On the Sun
+   Artist: Smash Mouth
+   Album: Fush Yu Mang (20th Anniversary Edition)
+   Duration: 3:28
+   Year: 1997
+
+117. You & Me
+   Artist: Dave Matthews Band
+   Album: Big Whiskey and the GrooGrux King (Expanded Edition)
+   Duration: 5:41
+   Year: 2009
+
+118. Cruisin' (Single Edit)
+   Artist: Huey Lewis & The News & Gwyneth Paltrow
+   Album: Greatest Hits (Remastered)
+   Duration: 3:34
+   Year: 2000
+
+119. Summer Breeze
+   Artist: Seals & Crofts
+   Album: Summer Breeze
+   Duration: 3:25
+   Year: 1972
+
+120. Two Heads Are Better Than One
+   Artist: Power Tool
+   Album: Bill & Ted's Excellent Adventure (Original Motion Picture Soundtrack)
+   Duration: 4:26
+   Year: 1989
+
+121. Can’t Help Falling In Love (Live At Daytrotter)
+   Artist: Ingrid Michaelson
+   Album: Be OK
+   Duration: 3:14
+   Year: 2008
+
+122. Can't Help Falling In Love
+   Artist: Elvis Presley
+   Album: The Essential Elvis Presley
+   Duration: 3:02
+   Year: 1961
+
+123. I Feel Better
+   Artist: Gotye
+   Album: Making Mirrors (Deluxe Version)
+   Duration: 3:19
+   Year: 2011
+
+124. The Chain
+   Artist: Fleetwood Mac
+   Album: Rumours (Super Deluxe Edition)
+   Duration: 4:30
+   Year: 1977
+
+125. Send My Love (To Your New Lover)
+   Artist: Adele
+   Album: 25
+   Duration: 3:43
+   Year: 2015
+
+126. Edge of Seventeen
+   Artist: Stevie Nicks
+   Album: Bella Donna (Deluxe Edition) [2016 Remaster]
+   Duration: 5:29
+   Year: 1981
+
+127. I'm Still Standing
+   Artist: Elton John
+   Album: Too Low For Zero (Bonus Track Version)
+   Duration: 3:03
+   Year: 1983
+
+128. Dani California
+   Artist: Red Hot Chili Peppers
+   Album: Stadium Arcadium
+   Duration: 4:42
+   Year: 2006
+
+

@@ -1,0 +1,48 @@
+# Road trip
+# Tracks: 7
+# Duration: 31 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:39 PM
+
+1. #41
+   Artist: Dave Matthews Band
+   Album: Crash
+   Duration: 6:40
+   Year: 1996
+
+2. Grey Street
+   Artist: Dave Matthews Band
+   Album: Busted Stuff
+   Duration: 5:06
+   Year: 2002
+
+3. You And I
+   Artist: Ingrid Michaelson
+   Album: Be OK
+   Duration: 2:28
+   Year: 2008
+
+4. Under the Bridge
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:34
+   Year: 1991
+
+5. Upside Down
+   Artist: Jack Johnson
+   Album: Sing-A-Longs and Lullabies for the film Curious George (Soundtrack)
+   Duration: 3:29
+   Year: 2005
+
+6. Everlong
+   Artist: Foo Fighters
+   Album: The Colour And The Shape
+   Duration: 4:11
+   Year: 1997
+
+7. Dog Days Are Over
+   Artist: Florence + the Machine
+   Album: Lungs
+   Duration: 4:13
+   Year: 2008
+
+

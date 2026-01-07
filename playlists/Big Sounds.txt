@@ -1,0 +1,192 @@
+# Big Sounds
+# Tracks: 31
+# Duration: 135 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:36 PM
+
+1. Get Lucky
+   Artist: Daft Punk, Pharrell Williams & Nile Rodgers
+   Album: Random Access Memories
+   Duration: 6:10
+   Year: 2013
+
+2. One Way or Another
+   Artist: Blondie
+   Album: Parallel Lines
+   Duration: 3:37
+   Year: 1978
+
+3. Dancing Nancies
+   Artist: Dave Matthews Band
+   Album: Under the Table and Dreaming
+   Duration: 6:05
+   Year: 1994
+
+4. Money for Nothing
+   Artist: Dire Straits
+   Album: Private Investigations: The Best of Dire Straits & Mark Knopfler
+   Duration: 8:24
+   Year: 1985
+
+5. Merry-Go-Round of Life (from 'Howl's Moving Castle')
+   Artist: Joe Hisaishi
+   Album: FREEDOM PIANO STORIES 4
+   Duration: 5:13
+   Year: 2005
+
+6. On a Clear Day
+   Artist: Joe Hisaishi
+   Album: Kiki's Delivery Service (Original Sountrack)
+   Duration: 2:16
+   Year: 1989
+
+7. Sweet Child O' Mine
+   Artist: Guns N' Roses
+   Album: Appetite for Destruction
+   Duration: 5:56
+   Year: 1987
+
+8. Going Away to College
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:59
+   Year: 1999
+
+9. Yellow
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 4:29
+   Year: 2000
+
+10. Dog Days Are Over
+   Artist: Florence + the Machine
+   Album: Lungs
+   Duration: 4:13
+   Year: 2008
+
+11. Magic Carpet Ride
+   Artist: Steppenwolf
+   Album: The Second
+   Duration: 4:34
+   Year: 1968
+
+12. 7 Years
+   Artist: Lukas Graham
+   Album: Lukas Graham
+   Duration: 3:57
+   Year: 2015
+
+13. The Chain
+   Artist: Fleetwood Mac
+   Album: Rumours (Super Deluxe Edition)
+   Duration: 4:30
+   Year: 1977
+
+14. Dirty Deeds Done Dirt Cheap
+   Artist: AC/DC
+   Album: Dirty Deeds Done Dirt Cheap
+   Duration: 3:52
+   Year: 1976
+
+15. Harder Better Faster Stronger
+   Artist: Daft Punk
+   Album: Discovery
+   Duration: 3:45
+   Year: 2001
+
+16. Killer Queen
+   Artist: Queen
+   Album: Greatest Hits I, II & III: The Platinum Collection
+   Duration: 3:01
+   Year: 1974
+
+17. Shake It Out
+   Artist: Florence + the Machine
+   Album: Ceremonials
+   Duration: 4:38
+   Year: 2011
+
+18. Parachute (Acapella Version)
+   Artist: Liel Bar-Z
+   Album: Parachute (Acapella Version) - Single
+   Duration: 2:24
+   Year: 2022
+
+19. Can't Help Falling In Love
+   Artist: Elvis Presley
+   Album: The Essential Elvis Presley
+   Duration: 3:02
+   Year: 1961
+
+20. Cruisin' (Single Edit)
+   Artist: Huey Lewis & The News & Gwyneth Paltrow
+   Album: Greatest Hits (Remastered)
+   Duration: 3:34
+   Year: 2000
+
+21. Big Balls
+   Artist: AC/DC
+   Album: Dirty Deeds Done Dirt Cheap
+   Duration: 2:39
+   Year: 1976
+
+22. Shake It Off
+   Artist: Taylor Swift
+   Album: 1989
+   Duration: 3:39
+   Year: 2014
+
+23. I Am the Highway
+   Artist: Audioslave
+   Album: Audioslave
+   Duration: 5:35
+   Year: 2002
+
+24. Dreams
+   Artist: Fleetwood Mac
+   Album: Rumours (Deluxe Edition)
+   Duration: 4:18
+   Year: 1977
+
+25. Sweet Home Alabama
+   Artist: Lynyrd Skynyrd
+   Album: Second Helping
+   Duration: 4:44
+   Year: 1974
+
+26. Born In the U.S.A.
+   Artist: Bruce Springsteen
+   Album: Born In the U.S.A.
+   Duration: 4:40
+   Year: 1984
+
+27. Don't Stop Believin'  (2022 Remaster)
+   Artist: Journey
+   Album: Escape (2022 Remaster)
+   Duration: 4:10
+   Year: 1981
+
+28. Sweet Child O' Mine
+   Artist: Guns N' Roses
+   Album: Appetite for Destruction (Super Deluxe)
+   Duration: 5:56
+   Year: 1987
+
+29. Here Comes the Sun
+   Artist: The Beatles
+   Album: Abbey Road (Remastered)
+   Duration: 3:06
+   Year: 1969
+
+30. You Shook Me All Night Long
+   Artist: AC/DC
+   Album: Back In Black
+   Duration: 3:30
+   Year: 1980
+
+31. Romeo and Juliet
+   Artist: Dire Straits
+   Album: Making Movies
+   Duration: 6:01
+   Year: 1980
+
+

@@ -1,0 +1,390 @@
+# league pop
+# Tracks: 64
+# Duration: 212 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:38 PM
+
+1. POP/STARS (feat. Jaira Burns & League of Legends Music)
+   Artist: K/DA, Madison Beer & i-dle
+   Album: POP/STARS (feat. Jaira Burns & League of Legends Music) - Single
+   Duration: 3:11
+   Year: 2018
+
+2. What's Up Danger
+   Artist: Blackway & Black Caviar
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 3:42
+   Year: 2018
+
+3. Believer
+   Artist: Imagine Dragons
+   Album: Evolve
+   Duration: 3:24
+   Year: 2017
+
+4. Elevate (feat. Denzel Curry, YBN Cordae, SwaVay & Trevor Rich)
+   Artist: DJ Khalil
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 3:39
+   Year: 2018
+
+5. One More Night
+   Artist: Maroon 5
+   Album: Overexposed (Deluxe Version)
+   Duration: 3:39
+   Year: 2012
+
+6. Let Go
+   Artist: Beau Young Prince
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 2:58
+   Year: 2018
+
+7. Fall Away
+   Artist: Kalide & Bianca
+   Album: Fall Away - Single
+   Duration: 3:51
+   Year: 2018
+
+8. Zero (From "Ralph Breaks the Internet")
+   Artist: Imagine Dragons
+   Album: Zero (From the Original Motion Picture "Ralph Breaks The Internet") - Single
+   Duration: 3:31
+   Year: 2018
+
+9. I'm So Humble (feat. Adam Levine)
+   Artist: The Lonely Island
+   Album: Popstar: Never Stop Never Stopping (Original Soundtrack)
+   Duration: 2:33
+   Year: 2016
+
+10. Burn the House Down
+   Artist: AJR
+   Album: The Click (Deluxe Edition)
+   Duration: 3:33
+   Year: 2017
+
+11. Phoenix
+   Artist: League of Legends Music, Cailin Russo & Chrissy Costanza
+   Album: Phoenix - Single
+   Duration: 3:18
+   Year: 2019
+
+12. RISE (feat. The Glitch Mob)
+   Artist: League of Legends Music, Mako & The Word Alive
+   Album: RISE (feat. The Glitch Mob) - Single
+   Duration: 3:13
+   Year: 2018
+
+13. Legends Never Die
+   Artist: League of Legends Music & Against The Current
+   Album: Legends Never Die - Single
+   Duration: 3:55
+   Year: 2017
+
+14. GIANTS (feat. JEON SOYEON, DUCKWRTH, Thutmose & League of Legends Music)
+   Artist: True Damage, Becky G & Keke Palmer
+   Album: GIANTS (feat. JEON SOYEON, DUCKWRTH, Thutmose & League of Legends Music) - Single
+   Duration: 3:12
+   Year: 2019
+
+15. I'm Alright (feat. Jimi Ono)
+   Artist: Rynx
+   Album: In Pieces
+   Duration: 3:27
+   Year: 2018
+
+16. Sunflower (Spider-Man: Into the Spider-Verse)
+   Artist: Post Malone & Swae Lee
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 2:38
+   Year: 2018
+
+17. Myself
+   Artist: Bazzi
+   Album: COSMIC
+   Duration: 2:48
+   Year: 2018
+
+18. Intro
+   Artist: Khalid
+   Album: Free Spirit
+   Duration: 3:32
+   Year: 2019
+
+19. Walls Could Talk
+   Artist: Halsey
+   Album: hopeless fountain kingdom (Deluxe)
+   Duration: 1:42
+   Year: 2017
+
+20. Unstoppable
+   Artist: The Score
+   Album: ATLAS
+   Duration: 3:12
+   Year: 2016
+
+21. Eastside
+   Artist: benny blanco, Halsey & Khalid
+   Album: FRIENDS KEEP SECRETS
+   Duration: 2:51
+   Year: 2018
+
+22. Fly (feat. Leah Culver)
+   Artist: Marshmello
+   Album: Fly (feat. Leah Culver) - Single
+   Duration: 3:14
+   Year: 2018
+
+23. Bruh...
+   Artist: Lil Dicky
+   Album: Professional Rapper
+   Duration: 4:23
+   Year: 2015
+
+24. Connection
+   Artist: OneRepublic
+   Album: Connection - Single
+   Duration: 2:28
+   Year: 2018
+
+25. Failure
+   Artist: NEFFEX
+   Album: Fight Back: The Collection
+   Duration: 5:17
+   Year: 2017
+
+26. Kill This Love
+   Artist: BLACKPINK
+   Album: KILL THIS LOVE - EP
+   Duration: 3:11
+   Year: 2019
+
+27. Jesus in LA
+   Artist: Alec Benjamin
+   Album: These Two Windows
+   Duration: 2:52
+   Year: 2020
+
+28. Rockabye (feat. Sean Paul & Anne-Marie)
+   Artist: Clean Bandit
+   Album: What Is Love? (Deluxe)
+   Duration: 4:11
+   Year: 2016
+
+29. Not a Damn Thing Changed
+   Artist: Lukas Graham
+   Album: 3 (The Purple Album)
+   Duration: 3:14
+   Year: 2018
+
+30. Blood // Water
+   Artist: grandson
+   Album: a modern tragedy, vol. 1 - EP
+   Duration: 3:35
+   Year: 2017
+
+31. The Search
+   Artist: NF
+   Album: The Search - Single
+   Duration: 4:08
+   Year: 2019
+
+32. C7osure (You Like)
+   Artist: Lil Nas X
+   Album: 7
+   Duration: 2:29
+   Year: 2019
+
+33. Dear Winter
+   Artist: AJR
+   Album: Neotheater
+   Duration: 2:48
+   Year: 2019
+
+34. I’m Not Famous
+   Artist: AJR
+   Album: The Click (Deluxe Edition)
+   Duration: 3:40
+   Year: 2016
+
+35. The Way I Am
+   Artist: Charlie Puth
+   Album: Voicenotes
+   Duration: 3:06
+   Year: 2018
+
+36. Weak
+   Artist: AJR
+   Album: The Click (Deluxe Edition)
+   Duration: 3:21
+   Year: 2016
+
+37. Best of Me
+   Artist: Demon AG
+   Album: The War Is Over - EP
+   Duration: 3:47
+   Year: 2024
+
+38. Dreaming (feat. Nevve)
+   Artist: Taska Black
+   Album: Gouldian Finch 2
+   Duration: 3:20
+   Year: 2017
+
+39. Seven Nation Army
+   Artist: The White Stripes
+   Album: Elephant
+   Duration: 3:52
+   Year: 2003
+
+40. Three-Thirty
+   Artist: AJR
+   Album: The Click (Deluxe Edition)
+   Duration: 3:30
+   Year: 2017
+
+41. When Can I See You Again?
+   Artist: Owl City
+   Album: Wreck-It Ralph (Original Score)
+   Duration: 3:38
+   Year: 2012
+
+42. Whatever It Takes
+   Artist: Imagine Dragons
+   Album: 2018 Best of by uDiscover
+   Duration: 3:21
+   Year: 2017
+
+43. My Oh My (feat. DaBaby)
+   Artist: Camila Cabello
+   Album: Romance
+   Duration: 2:51
+   Year: 2019
+
+44. Awkward
+   Artist: Scotty Sire
+   Album: Ruin Your Party
+   Duration: 2:55
+   Year: 2018
+
+45. Señorita
+   Artist: Shawn Mendes & Camila Cabello
+   Album: Señorita - Single
+   Duration: 3:11
+   Year: 2019
+
+46. Hear Me Calling
+   Artist: Juice WRLD
+   Album: Death Race for Love
+   Duration: 3:10
+   Year: 2019
+
+47. Freaking Me Out
+   Artist: Ava Max
+   Album: Freaking Me Out - Single
+   Duration: 3:12
+   Year: 2019
+
+48. Life
+   Artist: Paradox
+   Album: Life - Single
+   Duration: 2:07
+   Year: 2017
+
+49. The Storm
+   Artist: TheFatRat & Maisy Kay
+   Album: The Storm - Single
+   Duration: 2:49
+   Year: 2020
+
+50. THE BADDEST (feat. Bea Miller & League of Legends Music)
+   Artist: K/DA, i-dle & Wolftyla
+   Album: ALL OUT - EP
+   Duration: 2:43
+   Year: 2020
+
+51. Familia (feat. Bantu) [Spider-Man: Into the Spider-Verse]
+   Artist: Nicki Minaj & Anuel AA
+   Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+   Duration: 2:55
+   Year: 2018
+
+52. Ice Cream
+   Artist: BLACKPINK & Selena Gomez
+   Album: THE ALBUM
+   Duration: 2:56
+   Year: 2020
+
+53. Paralyzer
+   Artist: Finger Eleven
+   Album: Them Vs. You Vs. Me (Deluxe Edition)
+   Duration: 3:28
+   Year: 2007
+
+54. Hide and Seek
+   Artist: Lizz Robinett
+   Album: Hide and Seek - EP
+   Duration: 2:19
+   Year: 2015
+
+55. Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)
+   Artist: David Guetta
+   Album: Listen
+   Duration: 3:13
+   Year: 2014
+
+56. All Eyes on Me
+   Artist: OR1O
+   Album: All Eyes on Me - Single
+   Duration: 4:03
+   Year: 2014
+
+57. Peaches
+   Artist: Jack Black
+   Album: The Super Mario Bros. Movie (Original Motion Picture Soundtrack)
+   Duration: 1:35
+   Year: 2023
+
+58. Sugar, We're Goin Down
+   Artist: Fall Out Boy
+   Album: From Under the Cork Tree
+   Duration: 3:49
+   Year: 2005
+
+59. Girls Like You (feat. Cardi B)
+   Artist: Maroon 5
+   Album: Girls Like You (feat. Cardi B) - Single
+   Duration: 3:56
+   Year: 2018
+
+60. You Make My Dreams (Come True)
+   Artist: Daryl Hall & John Oates
+   Album: The Very Best of Daryl Hall & John Oates
+   Duration: 3:08
+   Year: 1980
+
+61. Boulevard of Broken Dreams
+   Artist: Green Day
+   Album: American Idiot
+   Duration: 4:21
+   Year: 2004
+
+62. What's Up?
+   Artist: 4 Non Blondes
+   Album: Bigger, Better, Faster, More!
+   Duration: 4:56
+   Year: 1992
+
+63. The Chain
+   Artist: Fleetwood Mac
+   Album: Rumours (Super Deluxe Edition)
+   Duration: 4:30
+   Year: 1977
+
+64. Parachute (Acapella Version)
+   Artist: Liel Bar-Z
+   Album: Parachute (Acapella Version) - Single
+   Duration: 2:24
+   Year: 2022
+
+

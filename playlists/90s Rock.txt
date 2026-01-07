@@ -1,0 +1,876 @@
+# 90s Rock
+# Tracks: 145
+# Duration: 579 minutes
+# Exported: Tuesday, January 6, 2026 at 1:10:34 PM
+
+1. My Own Worst Enemy
+   Artist: Lit
+   Album: A Place In The Sun
+   Duration: 2:49
+   Year: 1999
+
+2. Shimmer (Single Version)
+   Artist: Fuel
+   Album: The Best of Fuel
+   Duration: 3:34
+   Year: 1998
+
+3. Even Flow
+   Artist: Pearl Jam
+   Album: Ten
+   Duration: 4:53
+   Year: 1991
+
+4. Learn to Fly
+   Artist: Foo Fighters
+   Album: There Is Nothing Left to Lose
+   Duration: 3:55
+   Year: 1999
+
+5. Tomorrow (Remastered)
+   Artist: Silverchair
+   Album: Frogstomp (20th Anniversary Deluxe Edition)
+   Duration: 4:26
+   Year: 1995
+
+6. Down
+   Artist: 311
+   Album: Greatest Hits '93-'03
+   Duration: 2:51
+   Year: 1995
+
+7. Freak On a Leash
+   Artist: Korn
+   Album: Follow The Leader
+   Duration: 4:16
+   Year: 1998
+
+8. The Kids Aren't Alright
+   Artist: The Offspring
+   Album: Americana
+   Duration: 3:00
+   Year: 1998
+
+9. Jeremy (Brendan O'Brien Mix)
+   Artist: Pearl Jam
+   Album: Ten Redux
+   Duration: 5:17
+   Year: 1991
+
+10. The Freshmen
+   Artist: The Verve Pipe
+   Album: Villains
+   Duration: 4:29
+   Year: 1996
+
+11. The Distance
+   Artist: CAKE
+   Album: Fashion Nugget (Deluxe Edition)
+   Duration: 3:01
+   Year: 1996
+
+12. Two Princes
+   Artist: Spin Doctors
+   Album: Pocket Full of Kryptonite
+   Duration: 4:17
+   Year: 1991
+
+13. Inside Out
+   Artist: Eve 6
+   Album: Eve 6
+   Duration: 3:39
+   Year: 1998
+
+14. Everything You Want
+   Artist: Vertical Horizon
+   Album: Everything You Want
+   Duration: 4:17
+   Year: 1999
+
+15. Basket Case
+   Artist: Green Day
+   Album: Dookie
+   Duration: 3:03
+   Year: 1994
+
+16. Man In the Box
+   Artist: Alice In Chains
+   Album: Greatest Hits
+   Duration: 4:48
+   Year: 1990
+
+17. Wish You Were Here
+   Artist: Incubus
+   Album: Morning View
+   Duration: 3:33
+   Year: 2001
+
+18. Bulls On Parade
+   Artist: Rage Against the Machine
+   Album: Evil Empire
+   Duration: 3:49
+   Year: 1996
+
+19. Ball and Chain
+   Artist: Social Distortion
+   Album: Social Distortion
+   Duration: 5:43
+   Year: 1990
+
+20. I Don't Know Anything
+   Artist: Mad Season
+   Album: Above
+   Duration: 5:00
+   Year: 1995
+
+21. Plowed
+   Artist: Sponge
+   Album: Rotting Pinata
+   Duration: 3:17
+   Year: 1994
+
+22. All Mixed Up
+   Artist: 311
+   Album: Greatest Hits '93-'03
+   Duration: 3:02
+   Year: 1995
+
+23. Never There
+   Artist: CAKE
+   Album: Prolonging the Magic (Deluxe Version)
+   Duration: 2:44
+   Year: 1998
+
+24. Killing In the Name
+   Artist: Rage Against the Machine
+   Album: Rage Against the Machine
+   Duration: 5:14
+   Year: 1992
+
+25. My Hero
+   Artist: Foo Fighters
+   Album: The Colour And The Shape
+   Duration: 4:20
+   Year: 1997
+
+26. 1979
+   Artist: The Smashing Pumpkins
+   Album: Rotten Apples: Greatest Hits
+   Duration: 4:24
+   Year: 1995
+
+27. Superman's Dead
+   Artist: Our Lady Peace
+   Album: Clumsy
+   Duration: 4:15
+   Year: 1996
+
+28. Superman
+   Artist: Goldfinger
+   Album: Hang-Ups
+   Duration: 3:05
+   Year: 1997
+
+29. Amber
+   Artist: 311
+   Album: Greatest Hits '93-'03
+   Duration: 3:31
+   Year: 2001
+
+30. Alive
+   Artist: Pearl Jam
+   Album: Ten
+   Duration: 5:41
+   Year: 1991
+
+31. Chop Suey!
+   Artist: System Of A Down
+   Album: Toxicity
+   Duration: 3:30
+   Year: 2001
+
+32. Like a Stone
+   Artist: Audioslave
+   Album: Audioslave
+   Duration: 4:54
+   Year: 2002
+
+33. Pure Massacre (Remastered)
+   Artist: Silverchair
+   Album: Frogstomp (20th Anniversary Deluxe Edition)
+   Duration: 4:59
+   Year: 1995
+
+34. I Miss You
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 2:49
+   Year: 1999
+
+35. Absolutely (Story of a Girl)
+   Artist: Nine Days
+   Album: The Madding Crowd
+   Duration: 3:09
+   Year: 2000
+
+36. Buddy Holly
+   Artist: Weezer
+   Album: Weezer (Deluxe Edition)
+   Duration: 2:40
+   Year: 1994
+
+37. Big Me
+   Artist: Foo Fighters
+   Album: Foo Fighters
+   Duration: 2:13
+   Year: 1995
+
+38. Fall Down
+   Artist: Toad the Wet Sprocket
+   Album: Dulcinea
+   Duration: 3:22
+   Year: 1994
+
+39. Loser
+   Artist: Beck
+   Album: Mellow Gold
+   Duration: 3:55
+   Year: 1993
+
+40. No Excuses
+   Artist: Alice In Chains
+   Album: Greatest Hits
+   Duration: 4:16
+   Year: 1994
+
+41. Lump
+   Artist: The Presidents of the United States of America
+   Album: The Presidents of the United States of America: Ten Year Super Bonus Special Anniversary Edition
+   Duration: 2:14
+   Year: 1995
+
+42. River Of Deceit
+   Artist: Mad Season
+   Album: Above
+   Duration: 5:03
+   Year: 1995
+
+43. Nearly Lost You
+   Artist: Screaming Trees
+   Album: Sweet Oblivion
+   Duration: 4:07
+   Year: 1992
+
+44. Meet Virginia
+   Artist: Train
+   Album: Train
+   Duration: 4:00
+   Year: 1998
+
+45. Daughter (Remastered)
+   Artist: Pearl Jam
+   Album: Vs.
+   Duration: 3:55
+   Year: 1993
+
+46. Love Song
+   Artist: 311
+   Album: Greatest Hits '93-'03
+   Duration: 3:32
+   Year: 2004
+
+47. Brick
+   Artist: Ben Folds Five
+   Album: Whatever and Ever Amen
+   Duration: 4:31
+   Year: 1997
+
+48. Zombie (2025 Remastered)
+   Artist: The Cranberries
+   Album: No Need To Argue (30th Anniversary) [Super Deluxe Edition]
+   Duration: 5:06
+   Year: 1994
+
+49. Stars
+   Artist: Hum
+   Album: You'd Prefer an Astronaut
+   Duration: 5:09
+   Year: 1995
+
+50. Innocent
+   Artist: Our Lady Peace
+   Album: Gravity
+   Duration: 3:42
+   Year: 2002
+
+51. Hemorrhage (In My Hands)
+   Artist: Fuel
+   Album: Something Like Human
+   Duration: 3:57
+   Year: 2000
+
+52. Runaway Train (2022 Remaster)
+   Artist: Soul Asylum
+   Album: Grave Dancers Union (2022 Remaster)
+   Duration: 4:27
+   Year: 1992
+
+53. Better Man
+   Artist: Pearl Jam
+   Album: Vitalogy
+   Duration: 4:29
+   Year: 1994
+
+54. Mr. Jones
+   Artist: Counting Crows
+   Album: August and Everything After
+   Duration: 4:32
+   Year: 1993
+
+55. Breakout
+   Artist: Foo Fighters
+   Album: There Is Nothing Left to Lose
+   Duration: 3:21
+   Year: 1999
+
+56. Clumsy
+   Artist: Our Lady Peace
+   Album: Clumsy
+   Duration: 4:28
+   Year: 1997
+
+57. What I Got (Reprise)
+   Artist: Sublime
+   Album: Sublime
+   Duration: 3:02
+   Year: 1996
+
+58. Bitter Sweet Symphony
+   Artist: The Verve
+   Album: Urban Hymns (Deluxe / Remastered 2016)
+   Duration: 5:57
+   Year: 1997
+
+59. Standing Outside a Broken Phone Booth with Money in My Hand
+   Artist: Primitive Radio Gods
+   Album: Rocket
+   Duration: 5:37
+   Year: 1996
+
+60. Creep
+   Artist: Radiohead
+   Album: Pablo Honey
+   Duration: 3:59
+   Year: 1992
+
+61. Hallelujah
+   Artist: Jeff Buckley
+   Album: Grace
+   Duration: 6:54
+   Year: 1994
+
+62. Would?
+   Artist: Alice In Chains
+   Album: Dirt (Remastered)
+   Duration: 3:27
+   Year: 1992
+
+63. Plush
+   Artist: Stone Temple Pilots
+   Album: Thank You
+   Duration: 5:10
+   Year: 1992
+
+64. Down Rodeo
+   Artist: Rage Against the Machine
+   Album: Evil Empire
+   Duration: 5:21
+   Year: 1996
+
+65. Jeremy
+   Artist: Pearl Jam
+   Album: Ten
+   Duration: 5:18
+   Year: 1991
+
+66. Nutshell
+   Artist: Alice In Chains
+   Album: Jar of Flies - EP
+   Duration: 4:19
+   Year: 1994
+
+67. Clean My Wounds
+   Artist: Corrosion of Conformity
+   Album: Deliverance
+   Duration: 3:33
+   Year: 1994
+
+68. Pretty Fly (For a White Guy)
+   Artist: The Offspring
+   Album: Americana
+   Duration: 3:09
+   Year: 1998
+
+69. Testify
+   Artist: Rage Against the Machine
+   Album: The Battle of Los Angeles
+   Duration: 3:30
+   Year: 1999
+
+70. Closer
+   Artist: Nine Inch Nails
+   Album: The Downward Spiral
+   Duration: 6:13
+   Year: 1994
+
+71. Freak
+   Artist: Silverchair
+   Album: Freak Show
+   Duration: 3:46
+   Year: 1996
+
+72. Criminal
+   Artist: Fiona Apple
+   Album: Tidal
+   Duration: 5:42
+   Year: 1996
+
+73. Sex & Candy
+   Artist: Marcy Playground
+   Album: Marcy Playground
+   Duration: 2:53
+   Year: 1997
+
+74. Save Yourself
+   Artist: Stabbing Westward
+   Album: Darkest Days
+   Duration: 4:13
+   Year: 1998
+
+75. Down In a Hole
+   Artist: Alice In Chains
+   Album: Dirt (Remastered)
+   Duration: 5:38
+   Year: 1992
+
+76. Everything Falls Apart
+   Artist: Dog's Eye View
+   Album: Happy Nowhere
+   Duration: 3:54
+   Year: 1995
+
+77. Molly (Sixteen Candles)
+   Artist: Sponge
+   Album: Rotting Pinata
+   Duration: 3:35
+   Year: 1994
+
+78. Little Miss Can't Be Wrong
+   Artist: Spin Doctors
+   Album: Pocket Full of Kryptonite
+   Duration: 3:53
+   Year: 1991
+
+79. Sell Out
+   Artist: Reel Big Fish
+   Album: Reel Big Fish: Greatest Hit and More
+   Duration: 3:47
+   Year: 1996
+
+80. Mmm Mmm Mmm Mmm
+   Artist: Crash Test Dummies
+   Album: God Shuffled His Feet
+   Duration: 3:55
+   Year: 1993
+
+81. Black
+   Artist: Pearl Jam
+   Album: Ten
+   Duration: 5:43
+   Year: 1991
+
+82. All I Want
+   Artist: Toad the Wet Sprocket
+   Album: Fear
+   Duration: 3:16
+   Year: 1991
+
+83. Wake Up
+   Artist: Mad Season
+   Album: Above
+   Duration: 7:36
+   Year: 1995
+
+84. Only Happy When It Rains
+   Artist: Garbage
+   Album: Garbage (20th Anniversary Deluxe Edition) [2015 Remaster]
+   Duration: 3:57
+   Year: 1995
+
+85. 2 Wicky
+   Artist: Hooverphonic
+   Album: The Heights (Original Soundtrack)
+   Duration: 4:44
+   Year: 1997
+
+86. Cut You In
+   Artist: Jerry Cantrell
+   Album: Boggy Depot
+   Duration: 3:23
+   Year: 1998
+
+87. Rooster
+   Artist: Alice In Chains
+   Album: Dirt (Remastered)
+   Duration: 6:14
+   Year: 1992
+
+88. Girlfriend
+   Artist: Matthew Sweet
+   Album: Girlfriend
+   Duration: 3:40
+   Year: 1991
+
+89. Wonderwall (Remastered)
+   Artist: Oasis
+   Album: (What's The Story) Morning Glory? [Deluxe Remastered Edition]
+   Duration: 4:19
+   Year: 1995
+
+90. 4Am
+   Artist: Our Lady Peace
+   Album: Clumsy
+   Duration: 4:15
+   Year: 1997
+
+91. Closing Time
+   Artist: Semisonic
+   Album: Feeling Strangely Fine (20th Anniversary Edition)
+   Duration: 4:33
+   Year: 1998
+
+92. Change
+   Artist: Blind Melon
+   Album: Blind Melon
+   Duration: 3:42
+   Year: 1992
+
+93. No Rain
+   Artist: Blind Melon
+   Album: Blind Melon
+   Duration: 3:37
+   Year: 1992
+
+94. Just a Girl
+   Artist: No Doubt
+   Album: Tragic Kingdom
+   Duration: 3:29
+   Year: 1995
+
+95. Linger
+   Artist: The Cranberries
+   Album: Stars: The Best of the Cranberries 1992-2002
+   Duration: 4:35
+   Year: 1993
+
+96. Zombie
+   Artist: The Cranberries
+   Album: Stars: The Best of the Cranberries 1992-2002
+   Duration: 5:07
+   Year: 1994
+
+97. Take Control
+   Artist: Weezer
+   Album: Maladroit
+   Duration: 3:05
+   Year: 2002
+
+98. Beverly Hills
+   Artist: Weezer
+   Album: Make Believe
+   Duration: 3:16
+   Year: 2005
+
+99. Buddy Holly
+   Artist: Weezer
+   Album: Weezer
+   Duration: 2:40
+   Year: 1994
+
+100. Jane Says
+   Artist: Jane's Addiction
+   Album: Nothing's Shocking
+   Duration: 4:53
+   Year: 1987
+
+101. I Will Survive
+   Artist: CAKE
+   Album: Fashion Nugget (Deluxe Edition)
+   Duration: 5:10
+   Year: 1996
+
+102. Loser
+   Artist: Beck
+   Album: Mellow Gold
+   Duration: 3:55
+   Year: 1993
+
+103. Sparks
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 3:47
+   Year: 2000
+
+104. Hymn for the Weekend
+   Artist: Coldplay
+   Album: A Head Full of Dreams
+   Duration: 4:19
+   Year: 2015
+
+105. Heart-Shaped Box
+   Artist: Nirvana
+   Album: In Utero (20th Anniversary Edition)
+   Duration: 4:41
+   Year: 1993
+
+106. Lithium
+   Artist: Nirvana
+   Album: Nevermind
+   Duration: 4:17
+   Year: 1991
+
+107. Way Away
+   Artist: Yellowcard
+   Album: Ocean Avenue
+   Duration: 3:22
+   Year: 2003
+
+108. Otherside
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:16
+   Year: 1999
+
+109. Scar Tissue
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 3:36
+   Year: 1999
+
+110. Californication
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 5:30
+   Year: 1999
+
+111. Can't Stop
+   Artist: Red Hot Chili Peppers
+   Album: By the Way
+   Duration: 4:28
+   Year: 2002
+
+112. Stellar
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:20
+   Year: 1999
+
+113. Pardon Me
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:44
+   Year: 1999
+
+114. Drive
+   Artist: Incubus
+   Album: Make Yourself
+   Duration: 3:52
+   Year: 1999
+
+115. Semi-Charmed Life
+   Artist: Third Eye Blind
+   Album: A Collection (Remastered)
+   Duration: 4:29
+   Year: 1997
+
+116. Jumper
+   Artist: Third Eye Blind
+   Album: A Collection (Remastered)
+   Duration: 4:33
+   Year: 1997
+
+117. Welcome to Paradise
+   Artist: Green Day
+   Album: Dookie
+   Duration: 3:44
+   Year: 1994
+
+118. Feeling This
+   Artist: blink-182
+   Album: Blink-182 (Bonus Track Version)
+   Duration: 2:53
+   Year: 2003
+
+119. Always
+   Artist: blink-182
+   Album: Blink-182 (Bonus Track Version)
+   Duration: 4:12
+   Year: 2003
+
+120. First Date
+   Artist: blink-182
+   Album: Take off Your Pants and Jacket
+   Duration: 2:50
+   Year: 2001
+
+121. Dammit
+   Artist: blink-182
+   Album: Dude Ranch
+   Duration: 2:45
+   Year: 1997
+
+122. The Rock Show
+   Artist: blink-182
+   Album: Take off Your Pants and Jacket
+   Duration: 2:52
+   Year: 2001
+
+123. I Miss You
+   Artist: blink-182
+   Album: Blink-182 (Bonus Track Version)
+   Duration: 3:47
+   Year: 2003
+
+124. Dumpweed
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:24
+   Year: 1999
+
+125. Don't Leave Me
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:24
+   Year: 1999
+
+126. Aliens Exist
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:13
+   Year: 1999
+
+127. Going Away to College
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:59
+   Year: 1999
+
+128. What's My Age Again?
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:28
+   Year: 1999
+
+129. Dysentery Gary
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:45
+   Year: 1999
+
+130. Adam's Song
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 4:10
+   Year: 1999
+
+131. All the Small Things
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:47
+   Year: 1999
+
+132. The Party Song
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:18
+   Year: 1999
+
+133. Mutt
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:23
+   Year: 1999
+
+134. Wendy Clear
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 2:50
+   Year: 1999
+
+135. Anthem
+   Artist: blink-182
+   Album: Enema of the State
+   Duration: 3:38
+   Year: 1999
+
+136. Under the Bridge
+   Artist: Red Hot Chili Peppers
+   Album: Greatest Hits
+   Duration: 4:34
+   Year: 1991
+
+137. Yellow
+   Artist: Coldplay
+   Album: Parachutes
+   Duration: 4:29
+   Year: 2000
+
+138. The Scientist
+   Artist: Coldplay
+   Album: A Rush of Blood to the Head
+   Duration: 5:09
+   Year: 2002
+
+139. Send Me On My Way
+   Artist: Rusted Root
+   Album: When I Woke
+   Duration: 4:23
+   Year: 1992
+
+140. Untitled
+   Artist: blink-182
+   Album: Dude Ranch
+   Duration: 2:47
+   Year: 1997
+
+141. Dick Lips (Live, 1999)
+   Artist: blink-182
+   Album: The Mark, Tom and Travis Show (The Enema Strikes Back!) [Live]
+   Duration: 3:36
+   Year: 2000
+
+142. Voyeur (Live, 1999)
+   Artist: blink-182
+   Album: The Mark, Tom and Travis Show (The Enema Strikes Back!) [Live]
+   Duration: 3:29
+   Year: 2000
+
+143. 3 Small Words
+   Artist: Josie and the Pussycats
+   Album: Josie and The Pussycats - Music From The Motion Picture
+   Duration: 2:53
+   Year: 2001
+
+144. What I Like About You
+   Artist: Lillix
+   Album: Falling Uphill
+   Duration: 2:48
+   Year: 2003
+
+145. Hip-Hop Saved My Life (feat. Nikki Jean)
+   Artist: Lupe Fiasco
+   Album: Lupe Fiasco's The Cool (Deluxe Edition)
+   Duration: 4:03
+   Year: 2007
+
+
