@@ -1,14 +1,19 @@
 # Savannah Road Trip - Feb 2026
 # For: Paul & Kat
-# Tracks: 72
-# Duration: ~285 minutes (~4.75 hours)
+# Tracks: 97
+# Duration: ~385 minutes (~6.4 hours)
 # Created: February 6, 2026
+# Updated: February 6, 2026 - Added Modern Discoveries section
 #
 # A curated road trip playlist for the drive from Cary to Savannah.
 # Mixed energy levels - highway bangers, cruise-control vibes, and
 # Southern soul for when you cross into Georgia. Balanced for both
 # of you: DMB and Coldplay moments, some Kendrick heat, 90s nostalgia,
 # and those classics you'll both sing along to.
+#
+# NEW: Modern Discoveries section at the end - 25 songs from 2020-2026
+# you probably haven't heard yet. Think Noah Kahan, Hozier, Glass Animals,
+# Zach Bryan, and more indie/folk crossover goodness.
 
 # === ROLLING OUT OF CARY ===
 
@@ -315,4 +320,108 @@
 72. Going Away to College
     Artist: blink-182
     Album: Enema of the State
+
+# === MODERN DISCOVERIES (2020-2026) ===
+# Fresh songs you probably don't have - perfect for both of you!
+# Indie folk, modern alternative, critically acclaimed goodness.
+
+73. Stick Season
+    Artist: Noah Kahan
+    Album: Stick Season
+
+74. Northern Attitude (feat. Hozier)
+    Artist: Noah Kahan
+    Album: Stick Season (Forever)
+
+75. Dial Drunk (feat. Post Malone)
+    Artist: Noah Kahan
+    Album: Stick Season (Forever)
+
+76. Too Sweet
+    Artist: Hozier
+    Album: Unheard
+
+77. Take Me to Church
+    Artist: Hozier
+    Album: Hozier
+
+78. Movement
+    Artist: Hozier
+    Album: Wasteland, Baby!
+
+79. Heat Waves
+    Artist: Glass Animals
+    Album: Dreamland
+
+80. Something in the Orange
+    Artist: Zach Bryan
+    Album: American Heartbreak
+
+81. 28
+    Artist: Zach Bryan
+    Album: Zach Bryan
+
+82. Astrovan
+    Artist: Mt. Joy
+    Album: Mt. Joy
+
+83. Silver Lining
+    Artist: Mt. Joy
+    Album: Mt. Joy
+
+84. Light On
+    Artist: Maggie Rogers
+    Album: Heard It in a Past Life
+
+85. Alaska
+    Artist: Maggie Rogers
+    Album: Heard It in a Past Life
+
+86. Kyoto
+    Artist: Phoebe Bridgers
+    Album: Punisher
+
+87. Motion Sickness
+    Artist: Phoebe Bridgers
+    Album: Stranger in the Alps
+
+88. Not Strong Enough
+    Artist: boygenius
+    Album: the record
+
+89. Brightside
+    Artist: The Lumineers
+    Album: Brightside
+
+90. Lavender Days
+    Artist: Caamp
+    Album: Lavender Days
+
+91. By and By
+    Artist: Caamp
+    Album: By and By
+
+92. Can I Call You Tonight?
+    Artist: Dayglow
+    Album: Fuzzybrain
+
+93. Sunday Best
+    Artist: Surfaces
+    Album: Horizons
+
+94. As It Was
+    Artist: Harry Styles
+    Album: Harry's House
+
+95. Way Down We Go
+    Artist: KALEO
+    Album: A/B
+
+96. The Night We Met
+    Artist: Lord Huron
+    Album: Strange Trails
+
+97. Are You Bored Yet? (feat. Clairo)
+    Artist: Wallows
+    Album: Nothing Happens
 
